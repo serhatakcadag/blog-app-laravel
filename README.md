@@ -65,7 +65,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## HOW TO USE
 
-TO USE THE APP MAKE SURE THAT LARAVEL AND COMPOSER INSTALLED.
+TO USE THE APP MAKE SURE THAT LARAVEL AND COMPOSER ARE INSTALLED.
 <ul>
     <li>composer update</li>
     <li>composer install</li>
