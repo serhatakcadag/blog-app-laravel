@@ -21,5 +21,12 @@ class DatabaseSeeder extends Seeder
              'email' => 'admin@admin.com',
              'password' => bcrypt(123456)
           ]);
+        
+          \App\Models\Setting::create([
+            'title' => 'Blog App',
+            'description' => 'My Blog App With Laravel',
+            'mail' => 'deneme@deneme.com',
+            'keywords' => "null"
+         ]);
     }
 }
