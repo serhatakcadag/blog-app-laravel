@@ -10,6 +10,7 @@ TAKE THE FOLLOWING STEPS
 <ul>
     <li>composer update</li>
     <li>composer install</li>
+    <li>DO YOUR DATABASE AND EMAIL SETTINGS ON .env FILE</li>
     <li>php artisan migrate</li>
     <li>php artisan storage:link</li>
     <li>php artisan db:seed </li>
