@@ -66,13 +66,14 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## HOW TO USE
 
 TO USE THE APP MAKE SURE THAT LARAVEL AND COMPOSER INSTALLED.
-
-composer update
-composer install
-php artisan migrate
-php artisan storage:link
-php artisan db:seed 
-php artisan serve
+<ul>
+    <li>composer update</li>
+    <li>composer install</li>
+    <li>php artisan migrate</li>
+    <li>php artisan storage:link</li>
+    <li>php artisan db:seed </li>
+    <li>php artisan serve</li>
+</ul>
 
 You can access to the admin panel with localhost:8000/admin
 Default admin credentials are:
