@@ -62,3 +62,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+TO USE THE APP MAKE SURE THAT LARAVEL AND COMPOSER INSTALLED.
+
+composer update
+composer install
+php artisan migrate
+php artisan storage:link
+php artisan db:seed 
+php artisan serve
+
+You can access to the admin panel with localhost:8000/admin
+Default admin credentials are:
+email: admin@admin.com
+password: 123456
+
+ENJOY!
+
+
