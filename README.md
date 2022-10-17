@@ -16,6 +16,7 @@ TAKE THE FOLLOWING STEPS ON YOUR TERMINAL
     <li>php artisan migrate</li>
     <li>php artisan storage:link</li>
     <li>php artisan db:seed </li>
+    <li>php artisan key:generate</li>
     <li>php artisan serve</li>
 </ul>
 
