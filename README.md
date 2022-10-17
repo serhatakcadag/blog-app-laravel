@@ -76,8 +76,11 @@ TO USE THE APP MAKE SURE THAT LARAVEL AND COMPOSER ARE INSTALLED.
 </ul>
 
 You can access to the admin panel with localhost:8000/admin
+<br>
 Default admin credentials are:
+<br>
 email: admin@admin.com
+<br>
 password: 123456
 
 ENJOY!
